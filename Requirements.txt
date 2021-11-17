@@ -1,0 +1,8 @@
+Flask==2.0.2
+requests
+bs4
+requests_futures
+mysql-connector-python
+html5lib
+pandas
+
